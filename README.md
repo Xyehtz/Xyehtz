@@ -1,33 +1,34 @@
-<h1 align="center">Hi 👋, I'm Xyehtz</h1>
-<h3 align="center">A new and complete newbie in the world of programming, hoping to improve everyday</h3>
+# 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966">
+🔭 I’m currently working on Discord bots<br>👯 I’m looking to collaborate on anything related to Discord.js, JS, Node.js and Python<br>🤝 I’m looking for help with Lua for videogame development on Roblox<br>🌱 I’m currently learning Lua<br>💬 Ask me about videogames, JS, Node.js and Python
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyehtz&label=Profile%20views&color=0e75b6&style=flat" alt="xyehtz" /> </p>
+## 🌐 Socials
 
-- 🔭 I’m currently working on [Piolin.js](https://github.com/Xyehtz/Piolin.js)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Y639qqrNZT) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Xyehtz)
 
-- 🌱 I’m currently learning **Videogame development on Lua for Roblox**
+# 💻 Tech Stack
 
-- 👯 I’m looking to collaborate on **Anything related to JavaScript and Discord.js**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-- 💬 Ask me about **JavaScript, Node.js, Python and Discord.js**
+# 📊 GitHub Stats
 
-- 📫 How to reach me **<alejitogarbo@gmail.com>**
+![](https://github-readme-stats.vercel.app/api?username=Xyehtz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Xyehtz&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xyehtz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-- ⚡ Fun fact **I usually like to play videogames**
+## 🏆 GitHub Trophies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@xyehtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@xyehtz" height="30" width="40" /></a>
-<a href="https://discord.gg/Y639qqrNZT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Y639qqrNZT" height="30" width="40" /></a>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Xyehtz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🐦 Latest Tweet
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xyehtz&show_icons=true&locale=en&layout=compact" alt="xyehtz" /></p>
+[![](https://gtce.itsvg.in/api?username=@Xyehtz)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyehtz&show_icons=true&locale=en" alt="xyehtz" /></p>
+### 🔝 Top Contributed Repo
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xyehtz&" alt="xyehtz" /></p>
+![](https://github-contributor-stats.vercel.app/api?username=Xyehtz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Xyehtz&icon=1&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
