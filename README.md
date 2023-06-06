@@ -2,6 +2,13 @@
 
  I’m currently working on Discord bots<br> I’m looking to collaborate on anything related to Discord.js, JS, Node.js and Python<br> I’m looking for help with Lua for videogame development on Roblox<br> I’m currently learning Lua<br> Ask me about videogames, JS, Node.js and Python
 
+<p align="left">
+      <a href="https://github.com/Xyehtz?tab=repositories&q=&type=&language=&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Xyehtz?color=e6e6fa&style=for-the-badge&labelColor=070a0e&logo=star"/></a>
+   </p>
+
+---
+
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Y639qqrNZT) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Xyehtz)
@@ -37,15 +44,12 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Xyehtz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+---
 #
 
 <details>
   <summary><h3>Xyehtz's Coding Journey</h3></summary>
     Hey, this part stills in development, hope you can see this soon
 
-#
-
----
-[![](https://visitcount.itsvg.in/api?id=Xyehtz&icon=1&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
