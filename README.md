@@ -38,12 +38,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Xyehtz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-#
-
-### 🔝 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Xyehtz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" style="border: none;" />
-
 ---
 #
 
