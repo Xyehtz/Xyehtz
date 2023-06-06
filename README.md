@@ -50,6 +50,12 @@
 <details>
   <summary><h3>Xyehtz's Coding Journey</h3></summary>
     Hey, this part stills in development, hope you can see this soon
+</details>
 
+#
+
+### Contributions
+
+[![Snake Game](https://github.com/Xyehtz/Xyehtz/blob/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
