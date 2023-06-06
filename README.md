@@ -1,6 +1,6 @@
-# 💫 About Me
+#  About Me
 
-🔭 I’m currently working on Discord bots<br>👯 I’m looking to collaborate on anything related to Discord.js, JS, Node.js and Python<br>🤝 I’m looking for help with Lua for videogame development on Roblox<br>🌱 I’m currently learning Lua<br>💬 Ask me about videogames, JS, Node.js and Python
+ I’m currently working on Discord bots<br> I’m looking to collaborate on anything related to Discord.js, JS, Node.js and Python<br> I’m looking for help with Lua for videogame development on Roblox<br> I’m currently learning Lua<br> Ask me about videogames, JS, Node.js and Python
 
 ## 🌐 Socials
 
@@ -8,7 +8,16 @@
 
 # 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align="left" alt="Adobe After Effects" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg"/>
+<img align="left" alt="Adobe Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg"/>
+<img align="left" alt="Adobe Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+<br />
+
+#
 
 # 📊 GitHub Stats
 
@@ -16,17 +25,31 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Xyehtz&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xyehtz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+#
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Xyehtz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+#
 
 ## 🐦 Latest Tweet
 
 [![](https://gtce.itsvg.in/api?username=@Xyehtz)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+#
+
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Xyehtz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+#
+
+<details>
+  <summary><h3>Xyehtz's Coding Journey</h3></summary>
+    Hey, this part stills in development, hope you can see this soon
+
+#
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Xyehtz&icon=1&color=10)](https://visitcount.itsvg.in)
