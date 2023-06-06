@@ -46,7 +46,4 @@
     Hey, this part stills in development, hope you can see this soon
 </details>
 
-#
-
-![ Snake Animation ](https://raw.githubusercontent.com/Xyehtz/Xyehtz/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
