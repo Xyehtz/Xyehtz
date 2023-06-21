@@ -1,6 +1,6 @@
 #  About Me
 
- I’m currently working on Discord bots<br> I’m looking to collaborate on anything related to Discord.js, JS, Node.js and Python<br> I’m looking for help with Lua for videogame development on Roblox<br> I’m currently learning Lua<br> Ask me about videogames, JS, Node.js and Python
+ I’m currently working on Discord bots<br> I’m looking to collaborate on anything related to Discord.js, JS, Node.js and Python<br> I’m looking for help with Lua for videogame development on Roblox<br> I’m currently learning Python for AI<br> Ask me about videogames, JS, Node.js and Python
 
 <p align="left">
       <a href="https://github.com/Xyehtz?tab=repositories&q=&type=&language=&sort=stargazers">
