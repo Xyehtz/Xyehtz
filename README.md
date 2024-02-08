@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left">I'm Xyehtz, a programmer interested in the backend. I'm from Colombia, right now studying in Sheridan College, Canada.</p>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
