@@ -13,7 +13,6 @@ I'm Alejandro, here you can find some of the things I'm working on!
 
 ## Some GitHub stats
 
-![GitHub Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
 ###
